@@ -196,7 +196,7 @@ function Todo(props) {
                   fullWidth
                 />
               </FormControl>
-              <Button style={{ float: "right", color:'black' }}
+              <Button style={{ float: "right", color:"black" }}
                 disabled={!input}
                 variant="contained"
                 color="primary"
